@@ -1,4 +1,5 @@
 # 🚦 Traffic Light Sequence using Arduino Uno
+A traffic light sequence project built using Arduino Uno and C/C++-based programming. It controls red, yellow, and green LEDs connected to digital pins 5, 6, and 7, using timed delays to simulate traffic signal operation. This project helped me explore LED interfacing and the fundamentals of embedded systems.
 
 ## 🛠️ Components Used
 - Arduino Uno
