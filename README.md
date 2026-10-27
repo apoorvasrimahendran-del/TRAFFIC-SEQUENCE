@@ -48,3 +48,5 @@ traffic-light-sequence/
 
 ## ✅ Project Status
 Completed
+
+![Traffic Light Output](Traffic%20Light%20Output.jpeg)
