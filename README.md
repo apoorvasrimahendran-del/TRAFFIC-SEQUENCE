@@ -49,4 +49,6 @@ traffic-light-sequence/
 ## ✅ Project Status
 Completed
 
+[View Arduino Code](trafficlight.ino)
+
 ![Traffic Light Output](Traffic%20Light%20Output.jpeg)
