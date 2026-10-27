@@ -22,4 +22,3 @@ void loop(){
   
   
 }
-i havent upload anything in github just gimme structure so that i coul paste it
